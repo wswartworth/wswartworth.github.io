@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+plugins:          [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            William Swartworth
+description:      'This is a brief description of me.'
+url:              https://jacob.moorman.me/hyde
+baseurl:          ""
+
+# Options: 7, 8, 9, a, b, c, d, e, f
+theme_id: "7"
+
+author:
+  name:           'William Swartworth'
+  url:            https://jacob.moorman.me/
+
+# Blog configuration
+has_blog:         False
+#paginate:         1
+#paginate_path:    "/blog/page:num/"
+#blog_url:        "/blog/"
+
+# Configure prose
+prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
