@@ -17,7 +17,7 @@ theme_id: "7"
 
 author:
   name:           'William Swartworth'
-  url:            https://wswartworth.github.io/
+  url:            https://wswartworth.github.io/about
 
 # Blog configuration
 has_blog:         False
