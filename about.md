@@ -4,4 +4,8 @@ title: Home
 permalink: /
 ---
 
-I recently graduated from UCLA
+I recently completed my Ph.D. in applied mathematics at UCLA where I was extremely fortunate to be advised by [Deanna Needell](https://www.math.ucla.edu/~deanna/). This fall I will be a postdoc in the computer science department at [CMU](https://www.cmu.edu/) under the supervision of [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/). Previously I completed my undergrad degrees at UT Austin in mathematics and computer science.
+
+**Email:** wswartworth@gmail.com
+
+Here is a copy of my [CV]({{site.url}}/cv.pdf) (updated August 2023).
