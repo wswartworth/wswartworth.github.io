@@ -1,0 +1,41 @@
+I"8<p><strong>Nearly Optimal Bounds for Cyclic Forgetting</strong><br />
+with Mark Kong, <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a>, <a href="https://www.math.ucla.edu/~hajeong/">Halyun Jeong</a>, and <a href="https://sites.google.com/prod/view/rward/home">Rachel Ward</a></p>
+
+<p><strong>Optimal Eigenvalue Approximation via Sketching</strong><br />
+with <a href="http://www.cs.cmu.edu/~dwoodruf/">David Woodruff</a><br />
+STOC 2023 <a href="https://arxiv.org/abs/2304.09281">arXiv</a></p>
+
+<p><strong>SP2: A Second Order Stochastic Polyak Method</strong><br />
+with <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a>, <a href="https://gowerrobert.github.io/">Robert Gower</a>, <a href="https://www.math.ucla.edu/~shuangli/">Shuang Li</a>, and <a href="https://mtakac.com/About_me/">Martin Takac</a><br />
+ICLR 2023 <a href="https://arxiv.org/abs/2207.08171">arXiv</a></p>
+
+<p><strong>Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign?</strong>
+with <a href="https://mm5110.github.io/">Michael Murray</a>, <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a> and <a href="https://www.math.ucla.edu/~egeo/">Erin George</a><br />
+<a href="https://arxiv.org/abs/2306.09955">arXiv</a></p>
+
+<p><strong>Testing Positive Semidefiniteness with Linear Measurements</strong><br />
+with <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a> and <a href="http://www.cs.cmu.edu/~dwoodruf/">David Woodruff</a><br />
+FOCS 2023 <a href="https://arxiv.org/abs/2204.03782">arXiv</a></p>
+
+<p><strong>Quantile Based Iterative Methods for Corrupted Systems of Linear Equations</strong><br />
+with <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a>, <a href="https://www.hmc.edu/mathematics/people/faculty/haddock/">Jamie Haddock</a> and <a href="https://erebrova.github.io/">Liza Rebrova</a><br />
+SIMAX 2022 <a href="https://arxiv.org/abs/2009.08089">arXiv</a></p>
+
+<p><strong>Selectable Set Randomized Kaczmarz</strong><br />
+with <a href="https://yotamy.github.io/YotamWebsite/">Yotam Yaniv</a>, <a href="https://jacob.moorman.me/">Jacob Moorman</a>, <a href="https://ephesosx.github.io/">Thomas Tu</a>, <a href="https://www.linkedin.com/in/daji-landis-03157b15a">Daji Landis</a> and <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a><br />
+Numerical Linear Algebra, 2022 <a href="https://arxiv.org/abs/2110.04703">arXiv</a></p>
+
+<p><strong>Reconstructing piezoelectric responses over a lattice: adaptive sampling of low dimensional time series representations based on relative isolation and gradient size</strong><br />
+with <a href="https://www.mikel-aim.net/">Michael Lindstrom</a> and <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a><br />
+SMC Proceedings, 2021 <a href="http://localhost:4000/active_imaging.pdf">pdf</a> <a href="http://localhost:4000/active_imaging_poster.pdf">poster</a><br />
+Best solution award, runner up</p>
+
+<p><strong>Stochastic Gradient Descent Methods for Corrupted Systems of Linear Equations</strong><br />
+with <a href="https://www.hmc.edu/mathematics/people/faculty/haddock/">Jamie Haddock</a>, <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a>, and <a href="https://erebrova.github.io/">Liza Rebrova</a><br />
+<a href="https://ieeexplore.ieee.org/document/9086256">CISS 2020</a></p>
+
+<p><strong>Testing Hereditary Properties of Sequences</strong><br />
+with <a href="http://www.cs.cornell.edu/~cfreitag/">Cody Freitag</a> and <a href="https://www.cs.utexas.edu/~ecprice/">Eric Price</a><br />
+<a href="http://localhost:4000/hereditary-properties.pdf">pdf</a></p>
+
+:ET

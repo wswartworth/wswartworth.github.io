@@ -1,0 +1,1 @@
+You can download a copy of my CV [here]({{site.url}}/cv.pdf).
