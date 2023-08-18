@@ -8,8 +8,8 @@ permalink:        pretty
 
 # Setup
 title:            William Swartworth
-description:      'This is a website in progress. Testing2...'
-url:              https://wswartworth.github.io/about
+description:      'This is a website in progress. Testing3...'
+url:              https://wswartworth.github.io/
 baseurl:          ""
 
 # Options: 7, 8, 9, a, b, c, d, e, f
@@ -17,7 +17,7 @@ theme_id: "7"
 
 author:
   name:           'William Swartworth'
-  url:            https://wswartworth.github.io/about
+#  url:            https://wswartworth.github.io/about
 
 # Blog configuration
 has_blog:         False
