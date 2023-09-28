@@ -4,7 +4,8 @@ title: Publications
 ---
 
 **Nearly Optimal Bounds for Cyclic Forgetting**\\
-with Mark Kong, [Deanna Needell](https://www.math.ucla.edu/~deanna/), [Halyun Jeong](https://www.math.ucla.edu/~hajeong/), and [Rachel Ward](https://sites.google.com/prod/view/rward/home)
+with Mark Kong, [Deanna Needell](https://www.math.ucla.edu/~deanna/), [Halyun Jeong](https://www.math.ucla.edu/~hajeong/), and [Rachel Ward](https://sites.google.com/prod/view/rward/home)\\
+NeurIPS 2023
 
 **Optimal Eigenvalue Approximation via Sketching**\\
 with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
@@ -16,7 +17,8 @@ ICLR 2023 [arXiv](https://arxiv.org/abs/2207.08171)
 
 **Training shallow ReLU networks on noisy data using hinge loss: when do we overfit and is it benign?**
 with [Michael Murray](https://mm5110.github.io/), [Deanna Needell](https://www.math.ucla.edu/~deanna/) and [Erin George](https://www.math.ucla.edu/~egeo/)\\
-[arXiv](https://arxiv.org/abs/2306.09955)
+[arXiv](https://arxiv.org/abs/2306.09955)\\
+NeurIPS 2023
 
 **Testing Positive Semidefiniteness with Linear Measurements**\\
 with [Deanna Needell](https://www.math.ucla.edu/~deanna/) and [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
