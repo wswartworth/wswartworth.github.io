@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+**Improving the Communication Complexity of Convex Optimization**\\
+with [Mehrdad Ghadiri](https://web.mit.edu/mehrdadg/www/index.html), [Yin Tat Lee](https://yintat.com/), [Swati Padmanabhan](https://web.mit.edu/pswt/www/), [David Woodruff](https://www.cs.cmu.edu/~dwoodruf/), and [Guanghao Ye](https://yeguanghao.xyz/)\\
+STOC 2024 (to appear)
+
 **Nearly Optimal Bounds for Cyclic Forgetting**\\
 with Mark Kong, [Deanna Needell](https://www.math.ucla.edu/~deanna/), [Halyun Jeong](https://www.math.ucla.edu/~hajeong/), and [Rachel Ward](https://sites.google.com/prod/view/rward/home)\\
 NeurIPS 2023
