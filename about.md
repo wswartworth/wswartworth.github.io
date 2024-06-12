@@ -8,4 +8,4 @@ I recently completed my Ph.D. in applied mathematics at UCLA where I was extreme
 
 **Email:** wswartworth@gmail.com
 
-Here is a copy of my [CV]({{site.url}}/cv.pdf) (updated August 2023).
+Here is a copy of my [CV]({{site.url}}/cv.pdf) (updated June 2024).
