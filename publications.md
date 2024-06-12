@@ -3,9 +3,13 @@ layout: page
 title: Publications
 ---
 
-**Improving the Communication Complexity of Convex Optimization**\\
+**Fast Sampling Based Sketches for Tensors**\\
+with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
+ICML 2024 (Spotlight Paper) [arXiv](https://arxiv.org/abs/2406.06735)
+
+**Improving the Bit Complexity of Communication for Distributed Convex Optimization**\\
 with [Mehrdad Ghadiri](https://web.mit.edu/mehrdadg/www/index.html), [Yin Tat Lee](https://yintat.com/), [Swati Padmanabhan](https://web.mit.edu/pswt/www/), [David Woodruff](https://www.cs.cmu.edu/~dwoodruf/), and [Guanghao Ye](https://yeguanghao.xyz/)\\
-STOC 2024 (to appear)
+STOC 2024 [arXiv](https://arxiv.org/abs/2403.19146)
 
 **Nearly Optimal Bounds for Cyclic Forgetting**\\
 with Mark Kong, [Deanna Needell](https://www.math.ucla.edu/~deanna/), [Halyun Jeong](https://www.math.ucla.edu/~hajeong/), and [Rachel Ward](https://sites.google.com/prod/view/rward/home)\\
