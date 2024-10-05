@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+**Tight Sampling Bounds for Eigenvalue Approximation**\\
+with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
+SODA 2025
+
 **Fast Sampling Based Sketches for Tensors**\\
 with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
 ICML 2024 (Spotlight Paper) [arXiv](https://arxiv.org/abs/2406.06735)
