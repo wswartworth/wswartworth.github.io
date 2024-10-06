@@ -15,6 +15,10 @@ ICML 2024 (Spotlight Paper) [arXiv](https://arxiv.org/abs/2406.06735)
 with [Mehrdad Ghadiri](https://web.mit.edu/mehrdadg/www/index.html), [Yin Tat Lee](https://yintat.com/), [Swati Padmanabhan](https://web.mit.edu/pswt/www/), [David Woodruff](https://www.cs.cmu.edu/~dwoodruf/), and [Guanghao Ye](https://yeguanghao.xyz/)\\
 STOC 2024 [arXiv](https://arxiv.org/abs/2403.19146)
 
+**Fast and Low-Memory Compressive Sensing Algorithms for Low Tucker-Rank Tensor Approximation from Streamed Measurements**\\
+with Cullen Haselby, [Mark Iwen](https://users.math.msu.edu/users/iwenmark/), [Deanna Needell](https://www.math.ucla.edu/~deanna/), and [Liza Rebrova](https://erebrova.github.io/)\\
+Preprint [arXiv](https://arxiv.org/abs/2308.13709)
+
 **Nearly Optimal Bounds for Cyclic Forgetting**\\
 with Mark Kong, [Deanna Needell](https://www.math.ucla.edu/~deanna/), [Halyun Jeong](https://www.math.ucla.edu/~hajeong/), and [Rachel Ward](https://sites.google.com/prod/view/rward/home)\\
 NeurIPS 2023
