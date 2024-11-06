@@ -5,7 +5,7 @@ title: Publications
 
 **Tight Sampling Bounds for Eigenvalue Approximation**\\
 with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
-SODA 2025
+SODA 2025 [arXiv](https://arxiv.org/abs/2411.03227)
 
 **Fast Sampling Based Sketches for Tensors**\\
 with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
