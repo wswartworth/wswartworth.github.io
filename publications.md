@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+**Tight Bounds for Heavy-Hitters and Moment Estimation in the Sliding Window Model**
+with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
+and Shiyuan Feng\\
+ICALP 2025 [arXiv](https://arxiv.org/abs/2504.21175)
+
 **Tight Sampling Bounds for Eigenvalue Approximation**\\
 with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
 SODA 2025 [arXiv](https://arxiv.org/abs/2411.03227)
