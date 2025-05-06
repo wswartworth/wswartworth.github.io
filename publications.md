@@ -4,12 +4,12 @@ title: Publications
 ---
 
 **Understanding the Kronecker Matrix-Vector Complexity of Linear Algebra**\\
-with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
+with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)
 and [Raphael Meyer](https://ram900.com/)\\
 ICML 2025 [arXiv](https://arxiv.org/abs/2502.08029)
 
 **Tight Bounds for Heavy-Hitters and Moment Estimation in the Sliding Window Model**\\
-with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)\\
+with [David Woodruff](http://www.cs.cmu.edu/~dwoodruf/)
 and Shiyuan Feng\\
 ICALP 2025 [arXiv](https://arxiv.org/abs/2504.21175)
 
